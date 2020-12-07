@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.6",
-    "graphiql": "file:../../packages/graphiql",
+    "graphiql": "^1.0.6",
     "graphql": "^15.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
